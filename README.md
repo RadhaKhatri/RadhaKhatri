@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radha Bhavarlal Khatri</h1>
-<h3 align="center">YouTuber||co-lead of cloud and open source in GDGC</h3>
+<h3 align="center">Cloud Architect||YouTuber||Softeware Developer||co-lead of cloud and open source in GDGC</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/RadhaKhatri](https://github.com/RadhaKhatri)
 
